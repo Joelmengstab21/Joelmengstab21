@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joelmengstab21
 - 👀 I’m interested in becoming an ethical hacker
-- 🌱 I’m currently learning cyber security 
-- 💞️ I’m looking to collaborate on ethical hacking projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ethical hacking and python projects
 - 📫 You can reach me on joelmengstab30@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
