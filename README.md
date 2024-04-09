@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Joelmengstab21
+- 👋 Hi, I’m @Mr Robot
 - 👀 I’m interested in becoming an ethical hacker
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ethical hacking and python projects
-- 📫 You can reach me on joelmengstab30@gmail.com
+- 🌱 I’m currently learning penetration testing
+- 💞️ I’m looking to collaborate on ethical hacking and pentration testing projects
+- 📫 You can reach me on blaaaa
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Privacy is a Myth.
 
 <!---
 Joelmengstab21/Joelmengstab21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
